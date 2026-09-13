@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="loja/icone_512.png" alt="Daltonismo app icon" width="120">
+
 
 # Daltonismo
 
