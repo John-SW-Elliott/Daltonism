@@ -80,3 +80,9 @@ PREENCHER_LICENCA
 <div align="center">
 <sub><em>Daltonismo</em> is Portuguese for color blindness.</sub>
 </div>
+
+Questions about this policy: **ongsuporteunionmundial@gmail.com**
+
+---
+
+*Daltonism — Marcelo Rodrigo Alexandre*
