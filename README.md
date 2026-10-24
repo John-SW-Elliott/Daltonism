@@ -71,10 +71,6 @@ Fully translated in all nine — interface, color names, vision-type names and
 long-form explanations. A **System** option follows your device's language and
 keeps up if you change it while the app is open.
 
-## License
-
-PREENCHER_LICENCA
-
 ---
 
 <div align="center">
