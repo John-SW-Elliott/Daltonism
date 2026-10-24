@@ -73,12 +73,22 @@ keeps up if you change it while the app is open.
 
 ---
 
+## Contact
+
+| | |
+|:--|:--|
+| **App** | Daltonism: Color Blindness |
+| **Developer** | Marcelo Rodrigo Alexandre |
+| **Support** | Contact channel listed on the official app store page |
+
+Please use the official store listing to find the current support contact details.
+
+<br>
+
 <div align="center">
-<sub><em>Daltonismo</em> is Portuguese for color blindness.</sub>
+<sub>
+Daltonismo is Portuguese for color blindness.<br>
+© Marcelo Rodrigo Alexandre. All rights reserved. 
+</sub>
 </div>
 
-Questions about this policy: **ongsuporteunionmundial@gmail.com**
-
----
-
-*Daltonism — Marcelo Rodrigo Alexandre*
